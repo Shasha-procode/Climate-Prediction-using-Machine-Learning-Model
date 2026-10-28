@@ -1,0 +1,21 @@
+Project Title: Climate Prediction using Machine Learning
+
+Dataset: Seattle Weather Dataset (from Kaggle)
+
+Objective: Predict weather type (sun, rain, drizzle, fog, snow) using temperature, precipitation, and wind.
+
+Model Used: RandomForestClassifier
+
+Steps:
+1. Loaded and cleaned the dataset.
+2. Split data into training and testing sets.
+3. Trained a Random Forest model.
+4. Evaluated the model using accuracy and RMSE.
+5. Created a prediction script to predict weather for new data.
+
+Results:
+- Model Accuracy: (write your accuracy from output here)
+- Predictions saved in predictions.csv
+
+Tools Used:
+Python, Pandas, Scikit-Learn, Matplotlib, Joblib
